@@ -1,1 +1,1 @@
-"# nextgen2025-eda-activity" 
+# NextGen 2025: EDA Activity
